@@ -1,0 +1,15 @@
+{
+  "name": "whim",
+  "version": "0.1.0",
+  "description": "Whim CLI or project package",
+  "main": "index.js",
+  "bin": {},
+  "scripts": {
+    "start": "echo 'whatever you think it needs'",
+    "nextjs": "cd nextjs && bun start",
+    "svelte": "cd svelte && bun dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
